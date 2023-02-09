@@ -1,4 +1,4 @@
-this is something we knew
+this is an simple react app for development environment wherein the cahnges get refelcted inside the container
 
 
 ```
